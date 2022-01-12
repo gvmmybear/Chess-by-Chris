@@ -1495,7 +1495,7 @@ class Board:
                     piece = self._board[row][col].get_occupant()
                     player_color = piece.get_color()
                     piece_type = piece.get_letter()
-                    # piece.get_x()
+
                     if player_color == "B" and piece_type == "K":
                         win.blit(black_king, (piece.get_x(), piece.get_y()))
                     elif player_color == "B" and piece_type == "Q":
