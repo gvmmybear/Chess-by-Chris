@@ -12,6 +12,7 @@ After creating a Hasami Shogi Board game for a class portfolio project, I decide
 
 --------------------------
 Features to be added:
+
 -Multiple Games:
 Currently the program is set up where the user can only play one game upon starting the script. Once I have worked out all the actual game mechanics, I intend to add some extra pygame windows which let the user reset the board after completeing a game. 
 
