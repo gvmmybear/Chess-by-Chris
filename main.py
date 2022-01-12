@@ -1,10 +1,10 @@
 # Author: Christian Castro (Github: gvmmybear)
+# Date of Last Modification: 01/11/2022
 # Description: After creating a Hasami Shogi Board game for a class project, I decided
 #   that I wanted to create a chess program, as it is a game I am more acquainted with.
 #   This program is still currently in progress, as there are some missing functionality
-#   to this program (i.e. such as no castling, or checkmate verification as of yet).
+#   to this program (i.e. en passant rule for pawns is still needed).
 
-# Date of Last Modification: 01/11/2022
 import copy
 import pygame
 pygame.init()
